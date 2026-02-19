@@ -1,0 +1,4 @@
+COMP Computer Science
+MATH Mathematics 
+ENGI Engineering
+DECI Decision Sciences 

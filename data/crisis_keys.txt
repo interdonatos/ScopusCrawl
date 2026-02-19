@@ -1,0 +1,20 @@
+crisis
+disaster
+emergency
+humanitarian
+catastrophe
+hazard
+pandemic
+outbreak
+earthquake
+flood
+hurricane
+wildfire
+tornado
+landslide
+volcano
+road accident
+terrorism
+building collapse
+explosion
+pollution
